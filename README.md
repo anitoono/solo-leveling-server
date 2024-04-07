@@ -1,2 +1,0 @@
-# solo-leveling-server
-yutu
